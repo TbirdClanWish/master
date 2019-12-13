@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"llla7b03648": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
